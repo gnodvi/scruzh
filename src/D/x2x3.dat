@@ -1,0 +1,182 @@
+
+nodes_num = 182 
+nodes_mem = 936228 
+Started Time = 
+BLACK 
+  - - -   
+| X O X | 
+| . O . | 
+  - - -   
+
+BLACK 
+  - - -   
+| X O O | 
+| X . . | 
+  - - -   
+
+BLACK 
+  - - -   
+| X O . | 
+| X . O | 
+  - - -   
+
+BLACK 
+  - - -   
+| X O O | 
+| . X 1 | 
+  - - -   
+
+BLACK 
+  - - -   
+| X O 1 | 
+| . X O | 
+  - - -   
+
+BLACK 
+  - - -   
+| X O O | 
+| . 1 X | 
+  - - -   
+
+BLACK 
+  - - -   
+| X O . | 
+| . O X | 
+  - - -   
+
+BLACK 
+  - - -   
+| X O . | 
+| . . . | 
+  - - -   
+
+BLACK 
+  - - -   
+| X X O | 
+| O 1 1 | 
+  - - -   
+
+BLACK 
+  - - -   
+| X X O | 
+| . O 1 | 
+  - - -   
+
+BLACK 
+  - - -   
+| X X O | 
+| . 1 O | 
+  - - -   
+
+BLACK 
+  - - -   
+| X . O | 
+| X . O | 
+  - - -   
+
+BLACK 
+  - - -   
+| X 1 O | 
+| . X O | 
+  - - -   
+
+BLACK 
+  - - -   
+| X 1 O | 
+| O 1 X | 
+  - - -   
+
+BLACK 
+  - - -   
+| X 3 O | 
+| . 3 . | 
+  - - -   
+
+BLACK 
+  - - -   
+| X X . | 
+| O O 1 | 
+  - - -   
+
+BLACK 
+  - - -   
+| X X . | 
+| O 1 O | 
+  - - -   
+
+BLACK 
+  - - -   
+| X . X | 
+| O O . | 
+  - - -   
+
+BLACK 
+  - - -   
+| X . X | 
+| O 1 O | 
+  - - -   
+
+BLACK 
+  - - -   
+| X 3 . | 
+| O 1 . | 
+  - - -   
+
+BLACK 
+  - - -   
+| X X . | 
+| . O O | 
+  - - -   
+
+BLACK 
+  - - -   
+| X . . | 
+| . O . | 
+  - - -   
+
+BLACK 
+  - - -   
+| X . . | 
+| . 3 O | 
+  - - -   
+
+BLACK 
+  - - -   
+| O X O | 
+| 1 X 1 | 
+  - - -   
+
+BLACK 
+  - - -   
+| O X 1 | 
+| 1 X O | 
+  - - -   
+
+BLACK 
+  - - -   
+| O X 3 | 
+| 1 3 3 | 
+  - - -   
+
+BLACK 
+  - - -   
+| 3 X . | 
+| O 3 3 | 
+  - - -   
+
+BLACK 
+  - - -   
+| . X . | 
+| . O . | 
+  - - -   
+
+BLACK 
+  - - -   
+| . . . | 
+| . . . | 
+  - - -   
+
+
+Elapsed Time = {0: 0: 0} 
+
+

@@ -1,0 +1,58 @@
+
+nodes_num = 60 
+nodes_mem = 1638400 
+Started Time = 
+BLACK 
+  - - - - -   
+| X . O . . | 
+  - - - - -   
+
+BLACK 
+  - - - - -   
+| X X 1 O O | 
+  - - - - -   
+
+BLACK 
+  - - - - -   
+| X . . O . | 
+  - - - - -   
+
+BLACK 
+  - - - - -   
+| X . . 1 O | 
+  - - - - -   
+
+BLACK 
+  - - - - -   
+| . X O 1 . | 
+  - - - - -   
+
+BLACK 
+  - - - - -   
+| . X . O . | 
+  - - - - -   
+
+BLACK 
+  - - - - -   
+| . X 2 1 O | 
+  - - - - -   
+
+BLACK 
+  - - - - -   
+| O 1 X 2 . | 
+  - - - - -   
+
+BLACK 
+  - - - - -   
+| 1 O X . . | 
+  - - - - -   
+
+BLACK 
+  - - - - -   
+| . . 3 . . | 
+  - - - - -   
+
+
+Elapsed Time = {0: 0: 0} 
+
+

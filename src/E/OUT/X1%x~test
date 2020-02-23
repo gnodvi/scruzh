@@ -1,0 +1,14 @@
+
+MENU : 
+
+1 - ALL TESTS [@ == debug] 
+2 - test_prob_all [prog] 
+3 - auto_play [prog1 prog2  ii jj] 
+5 - resolve [pname ii jj megabytes mlevel] 
+7 - make Baza [ii jj megabytes] 
+8 - read Baza [ii jj]  
+9 - read Baza [ii jj] (NOT PRINT ERR) 
+10 - LEVELING 
+11 - myhash_test 
+12 - myeuler_test 
+

@@ -1,0 +1,165 @@
+
+nodes_num = 10 
+nodes_mem = 1638400 
+------------- Dump of hashtable ------------- 
+
+Num_table_All : 10 
+Num_nodes_All : 10 
+Num_nodes_Use : 0 
+
+Started Time = 
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (8) 
+    num_moves= 3 
+    move: b1 
+      - -   
+    | X . | 
+    | . O | 
+      - -   
+    minimax=  100 
+    move: b2 
+      - -   
+    | X O | 
+    | . . | 
+      - -   
+    minimax= -100 
+    move: a1 
+      - -   
+    | X . | 
+    | O . | 
+      - -   
+    minimax= -100 
+    BestMax=  100  Move= b1 
+  END: mm_minimax 
+  CalcEnd=  4 
+END: mm_minimax - INFO 
+
++ --- +   
+| X . | 2 
+| . . | 1 
++ --- +   
+  a b     
+
+LOX 
+Elapsed Time = {0: 0: 0} 
+
+
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (8) 
+    num_moves= 3 
+    move: a1 
+      - -   
+    | . X | 
+    | O . | 
+      - -   
+    minimax=  100 
+    move: a2 
+      - -   
+    | O X | 
+    | . . | 
+      - -   
+    minimax= -100 
+    move: b1 
+      - -   
+    | . X | 
+    | . O | 
+      - -   
+    minimax= -100 
+    BestMax=  100  Move= a1 
+  END: mm_minimax 
+  CalcEnd=  3 
+END: mm_minimax - INFO 
+
++ --- +   
+| . X | 2 
+| . . | 1 
++ --- +   
+  a b     
+
+LOX 
+Elapsed Time = {0: 0: 0} 
+
+
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (8) 
+    num_moves= 3 
+    move: b2 
+      - -   
+    | . O | 
+    | X . | 
+      - -   
+    minimax=  100 
+    move: a2 
+      - -   
+    | O . | 
+    | X . | 
+      - -   
+    minimax= -100 
+    move: b1 
+      - -   
+    | . . | 
+    | X O | 
+      - -   
+    minimax= -100 
+    BestMax=  100  Move= b2 
+  END: mm_minimax 
+  CalcEnd=  3 
+END: mm_minimax - INFO 
+
++ --- +   
+| . . | 2 
+| X . | 1 
++ --- +   
+  a b     
+
+LOX 
+Elapsed Time = {0: 0: 0} 
+
+
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (8) 
+    num_moves= 3 
+    move: a2 
+      - -   
+    | O . | 
+    | . X | 
+      - -   
+    minimax=  100 
+    move: b2 
+      - -   
+    | . O | 
+    | . X | 
+      - -   
+    minimax= -100 
+    move: a1 
+      - -   
+    | . . | 
+    | O X | 
+      - -   
+    minimax= -100 
+    BestMax=  100  Move= a2 
+  END: mm_minimax 
+  CalcEnd=  3 
+END: mm_minimax - INFO 
+
++ --- +   
+| . . | 2 
+| . X | 1 
++ --- +   
+  a b     
+
+LOX 
+Elapsed Time = {0: 0: 0} 
+
+
+------------- Dump of hashtable ------------- 
+
+Num_table_All : 10 
+Num_nodes_All : 10 
+Num_nodes_Use : 5 
+
+

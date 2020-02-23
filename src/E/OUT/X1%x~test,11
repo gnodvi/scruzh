@@ -1,0 +1,23 @@
+
+
+nodes_num = 182 
+nodes_mem = 163840 
+------------- Dump of hashtable ------------- 
+
+Num_table_All : 182 
+Num_nodes_All : 182 
+Num_nodes_Use : 2 
+
+result = 11 
+
+result = 12 
+
+result = 11 
+
+result = 11 
+
+result = 12 
+
+result = 11 
+
+

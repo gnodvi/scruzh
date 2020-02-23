@@ -1,0 +1,44 @@
+
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (2) 
+    num_moves= 3 
+    move: b1 
+      - - -   
+    | . X . | 
+      - - -   
+    minimax=  101 
+    BestMax=  101  Move= b1 
+  END: mm_minimax 
+  CalcEnd=  2 
+END: mm_minimax - INFO 
++ ----- +   
+| . X . | 1 
++ ----- +   
+  a b c     
+
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (2) 
+    num_moves= 2 
+    move: a1 
+      - - -   
+    | O X . | 
+      - - -   
+    minimax= -101 
+    move: c1 
+      - - -   
+    | . X O | 
+      - - -   
+    minimax= -101 
+    BestMax= -101  Move= c1 
+  END: mm_minimax 
+  CalcEnd=  2 
+END: mm_minimax - INFO 
++ ----- +   
+| . X @ | 1 
++ ----- +   
+  a b c     
+
+--------------> BLACK win! 
+

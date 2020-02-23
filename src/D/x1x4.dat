@@ -1,0 +1,33 @@
+
+nodes_num = 20 
+nodes_mem = 936228 
+Started Time = 
+BLACK 
+  - - - -   
+| X . O . | 
+  - - - -   
+
+BLACK 
+  - - - -   
+| X . 1 O | 
+  - - - -   
+
+BLACK 
+  - - - -   
+| . X O 1 | 
+  - - - -   
+
+BLACK 
+  - - - -   
+| . X 1 O | 
+  - - - -   
+
+BLACK 
+  - - - -   
+| . 3 3 . | 
+  - - - -   
+
+
+Elapsed Time = {0: 0: 0} 
+
+

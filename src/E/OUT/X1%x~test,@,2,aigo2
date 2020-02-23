@@ -1,0 +1,795 @@
+
+
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (2) 
+    num_moves= 23 
+    move: b1 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O X . . . | 
+      - - - - -   
+    minimax=  100 
+    move: a5 
+      - - - - -   
+    | X . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: b5 
+      - - - - -   
+    | . X . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: c5 
+      - - - - -   
+    | . . X . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: d5 
+      - - - - -   
+    | . . . X . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: e5 
+      - - - - -   
+    | . . . . X | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: a4 
+      - - - - -   
+    | . . . . . | 
+    | X . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: b4 
+      - - - - -   
+    | . . . . . | 
+    | . X . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: c4 
+      - - - - -   
+    | . . . . . | 
+    | . . X . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: d4 
+      - - - - -   
+    | . . . . . | 
+    | . . . X . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: e4 
+      - - - - -   
+    | . . . . . | 
+    | . . . . X | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: a3 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  1 
+    move: b3 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . X . . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: c3 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . X . . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: d3 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . X . | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: e3 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . X | 
+    | X . . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: b2 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X X . . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  3 
+    move: c2 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . X . . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: d2 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . . X . | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: e2 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . X | 
+    | O . . . . | 
+      - - - - -   
+    minimax=  0 
+    move: c1 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . X . . | 
+      - - - - -   
+    minimax=  1 
+    move: d1 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . X . | 
+      - - - - -   
+    minimax=  0 
+    move: e1 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | O . . . X | 
+      - - - - -   
+    minimax=  0 
+    BestMax=  100  Move= b1 
+  END: mm_minimax 
+  CalcEnd=  23 
+END: mm_minimax - INFO 
+.......... OK 
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (2) 
+    num_moves= 11 
+    move: e2 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | O O O O O | 
+    | X X X X X | 
+    | X X X O O | 
+      - - - - -   
+    minimax=  100 
+    move: a5 
+      - - - - -   
+    | X . . . . | 
+    | . . . . . | 
+    | O O O O O | 
+    | X X X X . | 
+    | X X X O O | 
+      - - - - -   
+    minimax= -100 
+    move: b5 
+      - - - - -   
+    | . X . . . | 
+    | . . . . . | 
+    | O O O O O | 
+    | X X X X . | 
+    | X X X O O | 
+      - - - - -   
+    minimax= -100 
+    move: c5 
+      - - - - -   
+    | . . X . . | 
+    | . . . . . | 
+    | O O O O O | 
+    | X X X X . | 
+    | X X X O O | 
+      - - - - -   
+    minimax= -100 
+    move: d5 
+      - - - - -   
+    | . . . X . | 
+    | . . . . . | 
+    | O O O O O | 
+    | X X X X . | 
+    | X X X O O | 
+      - - - - -   
+    minimax= -100 
+    move: e5 
+      - - - - -   
+    | . . . . X | 
+    | . . . . . | 
+    | O O O O O | 
+    | X X X X . | 
+    | X X X O O | 
+      - - - - -   
+    minimax= -100 
+    move: a4 
+      - - - - -   
+    | . . . . . | 
+    | X . . . . | 
+    | O O O O O | 
+    | X X X X . | 
+    | X X X O O | 
+      - - - - -   
+    minimax= -100 
+    move: b4 
+      - - - - -   
+    | . . . . . | 
+    | . X . . . | 
+    | O O O O O | 
+    | X X X X . | 
+    | X X X O O | 
+      - - - - -   
+    minimax= -100 
+    move: c4 
+      - - - - -   
+    | . . . . . | 
+    | . . X . . | 
+    | O O O O O | 
+    | X X X X . | 
+    | X X X O O | 
+      - - - - -   
+    minimax= -100 
+    move: d4 
+      - - - - -   
+    | . . . . . | 
+    | . . . X . | 
+    | O O O O O | 
+    | X X X X . | 
+    | X X X O O | 
+      - - - - -   
+    minimax= -100 
+    move: e4 
+      - - - - -   
+    | . . . . . | 
+    | . . . . X | 
+    | O O O O O | 
+    | X X X X . | 
+    | X X X O O | 
+      - - - - -   
+    minimax= -100 
+    BestMax=  100  Move= e2 
+  END: mm_minimax 
+  CalcEnd=  11 
+END: mm_minimax - INFO 
+.......... OK 
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (2) 
+    num_moves= 12 
+    move: e2 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O O O X | 
+    | O O O X X | 
+      - - - - -   
+    minimax=  100 
+    move: e2 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O O O X | 
+    | O O O X X | 
+      - - - - -   
+    minimax=  100 
+    move: a5 
+      - - - - -   
+    | X . . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O O O . | 
+    | O O O X X | 
+      - - - - -   
+    minimax= -100 
+    move: b5 
+      - - - - -   
+    | . X . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O O O . | 
+    | O O O X X | 
+      - - - - -   
+    minimax= -100 
+    move: c5 
+      - - - - -   
+    | . . X . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O O O . | 
+    | O O O X X | 
+      - - - - -   
+    minimax= -100 
+    move: d5 
+      - - - - -   
+    | . . . X . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O O O . | 
+    | O O O X X | 
+      - - - - -   
+    minimax= -100 
+    move: e5 
+      - - - - -   
+    | . . . . X | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O O O . | 
+    | O O O X X | 
+      - - - - -   
+    minimax= -100 
+    move: a4 
+      - - - - -   
+    | . . . . . | 
+    | X . . . . | 
+    | X X X X X | 
+    | O O O O . | 
+    | O O O X X | 
+      - - - - -   
+    minimax= -100 
+    move: b4 
+      - - - - -   
+    | . . . . . | 
+    | . X . . . | 
+    | X X X X X | 
+    | O O O O . | 
+    | O O O X X | 
+      - - - - -   
+    minimax= -100 
+    move: c4 
+      - - - - -   
+    | . . . . . | 
+    | . . X . . | 
+    | X X X X X | 
+    | O O O O . | 
+    | O O O X X | 
+      - - - - -   
+    minimax= -100 
+    move: d4 
+      - - - - -   
+    | . . . . . | 
+    | . . . X . | 
+    | X X X X X | 
+    | O O O O . | 
+    | O O O X X | 
+      - - - - -   
+    minimax= -100 
+    move: e4 
+      - - - - -   
+    | . . . . . | 
+    | . . . . X | 
+    | X X X X X | 
+    | O O O O . | 
+    | O O O X X | 
+      - - - - -   
+    minimax= -100 
+    BestMax=  100  Move= e2 
+  END: mm_minimax 
+  CalcEnd=  12 
+END: mm_minimax - INFO 
+.......... OK 
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (2) 
+    num_moves= 17 
+    move: c1 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O X O O | 
+      - - - - -   
+    minimax=  100 
+    move: c1 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O X O O | 
+      - - - - -   
+    minimax=  100 
+    move: a5 
+      - - - - -   
+    | X . . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  0 
+    move: b5 
+      - - - - -   
+    | . X . . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  1 
+    move: c5 
+      - - - - -   
+    | . . X . . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  2 
+    move: d5 
+      - - - - -   
+    | . . . X . | 
+    | . . . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  2 
+    move: e5 
+      - - - - -   
+    | . . . . X | 
+    | . . . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  1 
+    move: a4 
+      - - - - -   
+    | . . . . . | 
+    | X . . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  1 
+    move: b4 
+      - - - - -   
+    | . . . . . | 
+    | . X . . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  3 
+    move: c4 
+      - - - - -   
+    | . . . . . | 
+    | . . X . . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  3 
+    move: d4 
+      - - - - -   
+    | . . . . . | 
+    | . . . X . | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  3 
+    move: e4 
+      - - - - -   
+    | . . . . . | 
+    | . . . . X | 
+    | . . . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  2 
+    move: a3 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | X . . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  5 
+    move: b3 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . X . . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  5 
+    move: c3 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . X . . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  5 
+    move: d3 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . X . | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  5 
+    move: e3 
+      - - - - -   
+    | . . . . . | 
+    | . . . . . | 
+    | . . . . X | 
+    | X X X X X | 
+    | O O . O O | 
+      - - - - -   
+    minimax=  5 
+    BestMax=  100  Move= c1 
+  END: mm_minimax 
+  CalcEnd=  17 
+END: mm_minimax - INFO 
+.......... OK 
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (2) 
+    num_moves= 3 
+    move: d1 
+      - - - - -   
+    | X X X X X | 
+    | X O O O O | 
+    | X X X X O | 
+    | . X O O O | 
+    | . X O X O | 
+      - - - - -   
+    minimax=  100 
+    move: a2 
+      - - - - -   
+    | X X X X X | 
+    | X O O O O | 
+    | X X X X O | 
+    | X X O O O | 
+    | . X O . O | 
+      - - - - -   
+    minimax= -100 
+    move: a1 
+      - - - - -   
+    | X X X X X | 
+    | X O O O O | 
+    | X X X X O | 
+    | . X O O O | 
+    | X X O . O | 
+      - - - - -   
+    minimax= -100 
+    BestMax=  100  Move= d1 
+  END: mm_minimax 
+  CalcEnd=  3 
+END: mm_minimax - INFO 
+.......... OK 
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (2) 
+    num_moves= 3 
+    move: b1 
+      - - - - -   
+    | X O . O . | 
+    | X O O O X | 
+    | X X X O X | 
+    | X O O X X | 
+    | X X O X X | 
+      - - - - -   
+    minimax=  100 
+    move: c5 
+      - - - - -   
+    | X O X O . | 
+    | X O O O X | 
+    | X X X O X | 
+    | X O O X X | 
+    | X . O X X | 
+      - - - - -   
+    minimax= -101 
+    move: e5 
+      - - - - -   
+    | X O . O X | 
+    | X O O O X | 
+    | X X X O X | 
+    | X O O X X | 
+    | X . O X X | 
+      - - - - -   
+    minimax= -101 
+    BestMax=  100  Move= b1 
+  END: mm_minimax 
+  CalcEnd=  3 
+END: mm_minimax - INFO 
+.......... OK 
+BEG: mm_minimax - INFO 
+  BEG: mm_minimax 
+    numlev   = 0 (2) 
+    num_moves= 12 
+    move: c2 
+      - - - - -   
+    | . X O O O | 
+    | . . X O O | 
+    | . . X O O | 
+    | . . X X O | 
+    | . . . O . | 
+      - - - - -   
+    minimax=  0 
+    move: e1 
+      - - - - -   
+    | . X O O O | 
+    | . . X O O | 
+    | . . X O O | 
+    | . . . X O | 
+    | . . . O X | 
+      - - - - -   
+    minimax=  100 
+    move: a5 
+      - - - - -   
+    | X X O O O | 
+    | . . X O O | 
+    | . . X O O | 
+    | . . . X O | 
+    | . . . O . | 
+      - - - - -   
+    minimax= -100 
+    move: a4 
+      - - - - -   
+    | . X O O O | 
+    | X . X O O | 
+    | . . X O O | 
+    | . . . X O | 
+    | . . . O . | 
+      - - - - -   
+    minimax= -100 
+    move: b4 
+      - - - - -   
+    | . X O O O | 
+    | . X X O O | 
+    | . . X O O | 
+    | . . . X O | 
+    | . . . O . | 
+      - - - - -   
+    minimax= -100 
+    move: a3 
+      - - - - -   
+    | . X O O O | 
+    | . . X O O | 
+    | X . X O O | 
+    | . . . X O | 
+    | . . . O . | 
+      - - - - -   
+    minimax= -100 
+    move: b3 
+      - - - - -   
+    | . X O O O | 
+    | . . X O O | 
+    | . X X O O | 
+    | . . . X O | 
+    | . . . O . | 
+      - - - - -   
+    minimax= -100 
+    move: a2 
+      - - - - -   
+    | . X O O O | 
+    | . . X O O | 
+    | . . X O O | 
+    | X . . X O | 
+    | . . . O . | 
+      - - - - -   
+    minimax= -100 
+    move: b2 
+      - - - - -   
+    | . X O O O | 
+    | . . X O O | 
+    | . . X O O | 
+    | . X . X O | 
+    | . . . O . | 
+      - - - - -   
+    minimax= -100 
+    move: a1 
+      - - - - -   
+    | . X O O O | 
+    | . . X O O | 
+    | . . X O O | 
+    | . . . X O | 
+    | X . . O . | 
+      - - - - -   
+    minimax= -100 
+    move: b1 
+      - - - - -   
+    | . X O O O | 
+    | . . X O O | 
+    | . . X O O | 
+    | . . . X O | 
+    | . X . O . | 
+      - - - - -   
+    minimax= -100 
+    move: c1 
+      - - - - -   
+    | . X O O O | 
+    | . . X O O | 
+    | . . X O O | 
+    | . . . X O | 
+    | . . X O . | 
+      - - - - -   
+    minimax= -100 
+    BestMax=  100  Move= e1 
+  END: mm_minimax 
+  CalcEnd=  22 
+END: mm_minimax - INFO 
+.......... OK 
+
